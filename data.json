@@ -1,0 +1,39 @@
+{
+    "articles": [
+        {
+            "title": "Rammstein in Sofia",
+            "date": "26 July, 2013",
+            "category": " / news, contests",
+            "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+            "image": "/img/r_3.png"
+        },
+        {
+            "title": "Rammstein in Sofia 1",
+            "date": "26 July, 2013",
+            "category": " / news, contests",
+            "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+            "image": "/img/r_3.png"
+        },
+        {
+            "title": "Rammstein in Sofia 2",
+            "date": "26 July, 2013",
+            "category": " / news, contests",
+            "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+            "image": "/img/r_3.png"
+        },
+        {
+            "title": "Rammstein in Sofia 3",
+            "date": "26 July, 2013",
+            "category": " / news, contests",
+            "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+            "image": "/img/r_3.png"
+        },
+        {
+            "title": "Rammstein in Sofia 4",
+            "date": "26 July, 2013",
+            "category": " / news, contests",
+            "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+            "image": "/img/r_3.png"
+        }
+    ]
+}
