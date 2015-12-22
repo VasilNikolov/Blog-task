@@ -1,4 +1,8 @@
         <footer class="clearfix">
+            <div class="footer">
+                <p>Lorem ipsum dolor sit amet, consectetur</p>
+                <p>Lorem ipsum dolor sit amet, consectetur</p>
+            </div>
         </footer>
     </div><!-- End of wrapper -->
     <script src="js/libs/jquery-1.8.3.min.js"></script>
