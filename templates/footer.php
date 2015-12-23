@@ -1,7 +1,15 @@
         <footer class="clearfix">
             <div class="footer">
-                <p>Lorem ipsum dolor sit amet, consectetur</p>
-                <p>Lorem ipsum dolor sit amet, consectetur</p>
+                <div class="social">
+                    <img src="img\Twitter.png">
+                    <img src="img\RSS.png">
+                    <img src="img\Facebook.png">
+                    <img src="img\Pinterest.png">
+                </div>
+                <div class="footer-text">
+                <p class="info">Best PSD Freebies  |  info@bestpsdfreebies.com</p>
+                <p class="copyright">Copyright 2012 Gridzilla Theme  <b>www.bestpsdfreebies.com</b></p>
+                </div>
             </div>
         </footer>
     </div><!-- End of wrapper -->
