@@ -6,9 +6,9 @@
                     <img src="img\Facebook.png">
                     <img src="img\Pinterest.png">
                 </div>
-                <div class="footer-text">
-                <p class="info">Best PSD Freebies  |  info@bestpsdfreebies.com</p>
-                <p class="copyright">Copyright 2012 Gridzilla Theme  <b>www.bestpsdfreebies.com</b></p>
+                <div class="footer-text-container">
+                    <p class="info">Best PSD Freebies  |  info@bestpsdfreebies.com</p>
+                    <p class="copyright">Copyright 2012 Gridzilla Theme  <b>www.bestpsdfreebies.com</b></p>
                 </div>
             </div>
         </footer>
