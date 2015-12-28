@@ -14,6 +14,7 @@
     <link rel="stylesheet" href="css/normalize.css">
     <link rel="stylesheet" href="css/styles.css">
     <link rel="stylesheet" href="css/vasil-styles.css">
+    <link rel="stylesheet" href="css/stoyan-styles.css">
     <?php if($page_title == 'Contacts') { ?>
         <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCXSvNhrGGECmJMZKs3Ewbz32jVRvLTTq4&language=en"></script>
     <?php } ?>
@@ -23,3 +24,21 @@
 </head>
 <body>
     <div class="wrapper clearfix" role="main">
+        <header class="main-header clearfix">
+            <div class="logo"><h1>Gridzilla<span>.</span></h1></div>
+            <div class="search-bar clearfix">
+                <form method="get" action="http://www.google.com">
+                    <input class="search-input" type="search" name="search" placeholder="Enter your search ...">
+                    <input class="search-button" type="submit" value="">
+                </form>
+            </div>
+        </header>
+            <nav class="main-nav clearfix">
+                <ul>
+                    <li class="active"><a href="">home</a></li>
+                    <li><a href="">about</a></li>
+                    <li><a href="">blog</a></li>
+                    <li><a href="">contact</a></li>
+                </ul>
+            </nav>
+    </div>
