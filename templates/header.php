@@ -38,7 +38,7 @@
                     <li class="active"><a href="">home</a></li>
                     <li><a href="">about</a></li>
                     <li><a href="">blog</a></li>
-                    <li><a href="">contact</a></li>
+                    <li><a href="../Blog-task/contacts.php">contact</a></li>
                 </ul>
             </nav>
     </div>
