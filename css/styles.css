@@ -113,7 +113,7 @@ h2 {
 .content-nav .active {
 	color: #f03c3c;
 }
-.posts {
+.posts-wrapper {
 	margin: 20px auto;
 }
 .post-column{
@@ -122,52 +122,77 @@ h2 {
 	float: left;
 	margin-right: 20px;
 	font-family: "HelveticaNeue", Verdana, sans-serif;
-    color: #000;   
+    color: #000000;   
 }
-.post1 {
+.post-column:last-child {
+	margin-right: 0;
+}
+.post {
 	margin-bottom: 20px;
 	border: 1px solid #ececec;
+	overflow: hidden;
 }
-.post1 img {
-	height:220px;
-	width: 220px;
+.image-hover {
+	display: none;
+	height: 300px;
+	margin-top: 0;
+	background: #000000;
+	opacity: 0.8;
 }
-h3 {
-	margin: 10px 0 0;
+.content-image img:hover + div.image-hover {
+	display: block;
+	margin-top: -300px;
+}
+.content {
+	padding: 15px;
+}
+.post h3 {
+	margin:0;
 	font-size: 18px;
 }
-h4 {
+.post blockquote {
 	margin: 0;
 	font-size: 10px;
 	color: #a9a9a9;
 }
-p {
-	margin: 0;
-	padding: 15px;
+.post p {
+	margin-top: 15px;
 	font-size: 12px;
-	color: #000000;
 }
-h3,
-h4 {
-	padding: 0 15px;
+.more-button {
+	padding-left: 20px;
+	background: url(../img/more-button.png) no-repeat left center;
+	text-decoration: none;
+    font-size: 12px;
+    color: #000000;
+}	
+.page-buttons ul {
+    margin: 0;
+    padding: 0;
+	list-style-type: none;
 }
-.more {
-	height: 20px;
-	padding: 15px;
-}
-.more img {
-	display: inline-block;
-	height: 8px;
-	width: 15px;
+.page-buttons li {
 	float: left;
-	margin: 6px 0;
+	margin-right: 5px;
+	border-width: 2px;
+	border-style: solid;
+	border-color: #fafafa #ebebeb #e3e3e3 #e9e9e9;
+	border-radius: 5px;
+	background: -moz-linear-gradient(top, rgba(247,247,247,1) 0%, rgba(246,246,246,1) 47%, rgba(214,214,214,1) 100%);
 }
-.more a {
-	display: inline-block;
-	float: left;
-	margin: 1px 10px;
+.page-buttons li:hover{
+	border-color: #ffffff;
+	background: -moz-linear-gradient(top, rgba(208,208,208,1) 0%, rgba(246,246,246,1) 99%, rgba(227,227,227,1) 100%);
+	box-shadow:1px 1px 3px 0 #898989 inset;
+}	
+.page-buttons li a {
+    display: inline-block;
+    text-align: center;
     text-decoration: none;
     font-size: 12px;
     font-family: "HelveticaNeue", Verdana, sans-serif;
-    color: #000000;
+    color: #2c2c2c;
+    text-shadow: 1px 1px 1px #ffffff;
+    padding: 10px 15px;
+
 }
