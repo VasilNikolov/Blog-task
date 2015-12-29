@@ -21,12 +21,12 @@ footer {
 .info {
     margin-top: 5px;
     font-size: 12px;
-    font-family: HelveticaNeue Bold;
+    font-family: 'HelveticaNeue Bold';
 }
 .copyright {
     margin-top: -20px;
     font-size: 11px;
-    font-family: HelveticaNeue Medium;
+    font-family: 'HelveticaNeue Medium';
 }
                                                         /*End of footer*/
 .container-upper {
@@ -164,6 +164,7 @@ footer {
     background-repeat: no-repeat;
     font-family: 'HelveticaNeue';
     font-size: 14px;
+    background-position: 0 50%;
 }
 input {
     font-family: 'HelveticaNeue Medium';
