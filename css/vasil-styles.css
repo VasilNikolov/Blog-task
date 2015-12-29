@@ -11,6 +11,23 @@ footer {
     border-top: 1px solid;
     border-color: #ececec;
 }
+.footer a {
+    display: inline-block;
+    width: 37px;
+    height: 34px;
+}
+.twitter {
+    background-image: url(../img/Twitter.png);
+}
+.rss {
+    background-image: url(../img/RSS.png);
+}
+.facebook {
+    background-image: url(../img/Facebook.png);
+}
+.pinterest {
+    background-image: url(../img/Pinterest.png);
+}
 .social {
     float: left;
     margin-top: 22px;
@@ -19,12 +36,11 @@ footer {
     float: right;
 }
 .info {
-    margin-top: 5px;
+    margin-top: 15px;
     font-size: 12px;
     font-family: 'HelveticaNeue Bold';
 }
 .copyright {
-    margin-top: -20px;
     font-size: 11px;
     font-family: 'HelveticaNeue Medium';
 }
@@ -155,18 +171,17 @@ footer {
 }
 .submit {
     display: block;
-    width: 75px;
     margin-top: 15px;
-    padding: 0;
+    padding-left: 10px;
     border: none;
     background: none;
     background-image: url(../img/form.png);
     background-repeat: no-repeat;
     font-family: 'HelveticaNeue';
     font-size: 14px;
-    background-position: 0 50%;
+    background-position: 0 40%;
 }
-input {
+.form input {
     font-family: 'HelveticaNeue Medium';
     font-size: 12px;
 }

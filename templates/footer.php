@@ -1,10 +1,10 @@
         <footer class="clearfix">
             <div class="footer">
                 <div class="social">
-                    <img src="img\Twitter.png">
-                    <img src="img\RSS.png">
-                    <img src="img\Facebook.png">
-                    <img src="img\Pinterest.png">
+                    <a class="twitter" href="https://www.twitter.com" target="_blank"></a>
+                    <a class="rss" href="https://www.rss.com" target="_blank"></a>
+                    <a class="facebook" href="https://www.facebook.com" target="_blank"></a>
+                    <a class="pinterest" href="https://www.pinterest.com" target="_blank"></a>
                 </div>
                 <div class="footer-text-container">
                     <p class="info">Best PSD Freebies  |  info@bestpsdfreebies.com</p>
