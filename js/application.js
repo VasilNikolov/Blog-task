@@ -25,13 +25,13 @@ window.Env = window.Env || {};
         function initialize() {
             var mapOptions = {
                 center: new google.maps.LatLng(42.687611, 23.335194),
-                zoom: 17,
+                zoom: 15,
                 panControl: false,
-                zoomControl: false,
+                zoomControl: true,
                 scaleControl: false,
-                scrollwheel: false,
-                mapTypeControl: false,
-                disableDoubleClickZoom: true,
+                scrollwheel: true,
+                mapTypeControl: true,
+                disableDoubleClickZoom: false,
                 mapTypeId: google.maps.MapTypeId.ROADMAP
             };
             var map = new google.maps.Map(document.getElementById("map-canvas"), mapOptions);

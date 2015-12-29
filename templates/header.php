@@ -13,6 +13,8 @@
     <meta name="viewport" content="width=device-width">
     <link rel="stylesheet" href="css/normalize.css">
     <link rel="stylesheet" href="css/styles.css">
+    <link rel="stylesheet" href="css/vasil-styles.css">
+    <link rel="stylesheet" href="css/stoyan-styles.css">
     <?php if($page_title == 'Contacts') { ?>
         <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCXSvNhrGGECmJMZKs3Ewbz32jVRvLTTq4&language=en"></script>
     <?php } ?>
@@ -36,7 +38,7 @@
                     <li class="active"><a href="">home</a></li>
                     <li><a href="">about</a></li>
                     <li><a href="">blog</a></li>
-                    <li><a href="">contact</a></li>
+                    <li><a href="../Blog-task/contacts.php">contact</a></li>
                 </ul>
             </nav>
     </div>
