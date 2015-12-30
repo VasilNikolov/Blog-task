@@ -45,6 +45,7 @@ footer {
     font-family: 'HelveticaNeue Medium';
 }
                                                         /*End of footer*/
+                                                        /*Slider*/
 .container-upper {
     position: relative;
     width: 940px;
@@ -131,7 +132,8 @@ footer {
     right: -14px;
     background-image: url(../img/Slider/Next.png);
 }
-                                                                    /*End of content upper*/
+                                                                    /*End of slider*/
+                                                                    /*Contacts*/
 .contacts {
     width: 940px;
     height: 990px;
@@ -168,6 +170,8 @@ footer {
     height: 203px;
     background-color: #fafafa;
     border: 1px solid #eeeeee;
+    resize: none;
+    font-family: 'HelveticaNeue Medium'
 }
 .submit {
     display: block;
@@ -185,3 +189,4 @@ footer {
     font-family: 'HelveticaNeue Medium';
     font-size: 12px;
 }
+                                                                    /*End of contacts*/
