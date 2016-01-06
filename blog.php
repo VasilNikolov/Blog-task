@@ -5,4 +5,6 @@
 
 <?php include('templates/blog-content.php') ?>
 
+<?php include('templates/home-content.php') ?>
+
 <?php include('templates/footer.php') ?>

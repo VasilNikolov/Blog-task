@@ -35,8 +35,8 @@
             <nav class="main-nav clearfix">
                 <ul>
                     <li class="active"><a href="">home</a></li>
-                    <li><a href="">about</a></li>
-                    <li><a href="">blog</a></li>
+                    <li><a href="../Blog-task/about.php">about</a></li>
+                    <li><a href="../Blog-task/blog.php">blog</a></li>
                     <li><a href="../Blog-task/contacts.php">contact</a></li>
                 </ul>
             </nav>

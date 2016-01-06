@@ -1,5 +1,4 @@
 <div class="wrapper">
-	<h2>A Theme Unlike Any Other. Simply Fantastic!</h2>
 	<nav class="content-nav">
 		<ul>
 			<li><a class="active" href="">all</a></li>
