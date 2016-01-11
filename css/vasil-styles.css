@@ -185,7 +185,7 @@ footer {
     font-size: 14px;
     background-position: 0 40%;
 }
-.form input {
+.form input, textarea {
     font-family: 'HelveticaNeue Medium';
     font-size: 12px;
 }

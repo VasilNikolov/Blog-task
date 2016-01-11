@@ -9,3 +9,5 @@
     <div class="content-third-row eighth"></div>
     <div class="content-third-row last"></div>
 </div>
+
+<h2>A Theme Unlike Any Other. Simply Fantastic!</h2>
