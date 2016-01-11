@@ -1,5 +1,4 @@
 <div class="wrapper">
-	<h1>A Theme Unlike Any Other. Simply Fantastic!</h1>
 	<div class="content-nav">
 		<ul>
 			<li><a class="active" href="">all</a></li>
@@ -61,7 +60,7 @@
 							<li class="likes">588</li>
 						</ul>
 					</div>
-				</div>	
+				</div>
 				<div class="content">
 					<h3>Pinterest Icons</h3>
 					<blockquote>June 15, 2012</blockquote>

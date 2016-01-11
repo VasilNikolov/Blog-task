@@ -1,1 +1,1 @@
-<h2>Read Our Latest Posts. Learn Something New Maybe!</h2>
+<h1>Read Our Latest Posts. Learn Something New Maybe!</h1>

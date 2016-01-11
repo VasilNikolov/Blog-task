@@ -17,4 +17,4 @@
     <div class="content-third-row last"></div>
 </div>
 
-<h2>A Theme Unlike Any Other. Simply Fantastic!</h2>
+<h1>A Theme Unlike Any Other. Simply Fantastic!</h1>
