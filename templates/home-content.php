@@ -15,7 +15,7 @@
 				<div class="content-image">
 					<img src="img/sticker-mule.jpg" alt="sticker-mule">
 					<div class="image-hover">
-						<a class="add" href="../Blog-task/index.php"></a>
+						<a class="add" href="../Blog-task/sticker-mule.php"></a>
 						<ul>
 							<li class="views">857</li>
 							<li class="date">07/05/12</li>
@@ -74,7 +74,7 @@
 			<div class="content-image">
 				<img src="img/10-amazing-websites.jpg" alt="10-amazing-websites">
 				<div class="image-hover">
-					<a class="add" href="../Blog-task/index.php"></a>
+					<a class="add" href="../Blog-task/websites.php"></a>
 					<ul>
 						<li class="views">857</li>
 						<li class="date">07/05/12</li>
@@ -112,7 +112,7 @@
 				<div class="content-image">
 					<img src="img/ipad-3-review.jpg" alt="ipad-3-review">
 					<div class="image-hover">
-						<a class="add" href="../Blog-task/index.php"></a>
+						<a class="add" href="../Blog-task/character-design.php"></a>
 						<ul>
 							<li class="views">857</li>
 							<li class="date">07/05/12</li>

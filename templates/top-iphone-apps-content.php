@@ -67,7 +67,7 @@
 			<div class="content-image">
 				<img alt="sticker-mule" src="img/sticker-mule.jpg">
 				<div class="image-hover">
-					<a href="http://google.bg" class="add"></a>
+					<a href="../Blog-task/sticker-mule.php" class="add"></a>
 					<ul>
 						<li class="views">857</li>
 						<li class="date">07/05/12</li>
@@ -82,9 +82,9 @@
 		</div>
 		<div class="post">
 			<div class="content-image">
-				<img alt="character-design" src="img/character-design.jpg">
+				<img alt="character-design" src="img/10-amazing-websites.jpg">
 				<div class="image-hover">
-					<a href="http://google.bg" class="add"></a>
+					<a href="../Blog-task/websites.php" class="add"></a>
 					<ul>
 						<li class="views">857</li>
 						<li class="date">07/05/12</li>
@@ -93,10 +93,10 @@
 				</div>
 			</div>
 			<div class="content">
-				<h3>Character Design</h3>
+				<h3>10 Amazing Websites</h3>
 				<blockquote>June 15, 2012</blockquote>
 			</div>
 		</div>
 	</article>
-	
+
 </div>
