@@ -132,6 +132,34 @@ footer {
     right: -14px;
     background-image: url(../img/Slider/Next.png);
 }
+.content-overlay {
+    position: absolute;
+    width: 294px;
+    height: 195px;
+    top: 166px;
+    left: 310px;
+    background: rgba(0, 0, 0, 0.8);
+}
+.top-apps {
+    font-family: 'ChunkFive';
+    font-size: 24px;
+    color: white;
+    margin-left: 30px;
+}
+.overlay-text {
+    color: white;
+    font-size: 12px;
+    margin: 10px 30px;
+}
+.overlay-button {
+    margin-left: 30px;
+    padding-left: 20px;
+    background: url(../img/slider/white-more.png) no-repeat left center;
+    text-decoration: none;
+    font-family: 'HelveticaNeue Medium';
+    font-size: 12px;
+    color: white;
+}
                                                                     /*End of slider*/
                                                                     /*Contacts*/
 .contacts {
