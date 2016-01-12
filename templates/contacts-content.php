@@ -13,6 +13,6 @@
         <input class="small-input" type="text" placeholder="LAST NAME">
         <input class="small-input" type="text" placeholder="EMAIL ADDRESS">
         <textarea name="" class="large-input" placeholder="MESSAGE"></textarea>
-        <input class="submit" type="button" name="" value="   Submit">
+        <input class="submit" type="button" name="" value="Submit">
     </form>
 </div>

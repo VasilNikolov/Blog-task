@@ -1,4 +1,4 @@
-<div class="wrapper">
+<div class="wrapper clearfix">
 	<div class="content-nav">
 		<ul>
 			<li><a class="active" href="">all</a></li>
@@ -27,7 +27,7 @@
 					<h3>Sticker Mule</h3>
 					<blockquote>June 15, 2012 / news, contests</blockquote>
 					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quasi, odio voluptates esse dolorem laboriosam eum provident aliquam cum totam odit.</p>
-					<a class="more-button" href="">More</a>
+					<a class="more-button" href="../Blog-task/sticker-mule.php">More</a>
 				</div>
 			</div>
 			<div class="post">
@@ -86,7 +86,7 @@
 					<h3>10 Amazing Websites</h3>
 					<blockquote>June 15, 2012</blockquote>
 					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quasi, odio voluptates esse dolorem laboriosam eum provident aliquam cum totam odit.</p>
-					<a class="more-button" href="">More</a>
+					<a class="more-button" href="../Blog-task/websites.php">More</a>
 				</div>
 			</div>
 			<div class="post">
