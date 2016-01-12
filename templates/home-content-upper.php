@@ -6,53 +6,50 @@
             <a class="overlay-button" href="../Blog-task/top-iphone-apps.php">More</a>
         </div>
     </div>
-    <div class="content-first-row">
+    <div class="slider-blocks">
         <img src="img/Slider/first_block.png" alt="first">
         <div class="image-hover">
             <a href="" class="add"></a>
         </div>
     </div>
-    <div class="content-first-row second">
+    <div class="slider-blocks second">
         <img src="img/Slider/second_block.png" alt="first">
         <div class="image-hover">
         <a href="../Blog-task/websites.php" class="add"></a>
         </div>
     </div>
-    <div class="content-first-row">
+    <div class="slider-blocks">
         <img src="img/Slider/third_block.png" alt="first">
         <div class="image-hover">
         <a href="" class="add"></a>
         </div>
     </div>
-    <div class="content-second-row largest">
+    <div class="slider-blocks largest">
         <img src="img/Slider/largest_block.png" alt="first">
-        <div class="image-hover">
-        <a href="../Blog-task/top-iphone-apps.php" class="add"></a>
-        </div>
     </div>
-    <div class="content-second-row medium">
+    <div class="slider-blocks medium">
         <img src="img/Slider/medium_block.png" alt="first">
         <div class="image-hover">
         <a href="" class="add"></a>
         </div>
     </div>
-    <div class="content-second-row responsive">RESPONSIVE
+    <div class="slider-blocks responsive">RESPONSIVE
         <div class="image-hover">
         <a href="" class="add"></a>
         </div>
     </div>
-    <div class="content-third-row latest-news">LATEST NEWS
+    <div class="slider-blocks latest-news">LATEST NEWS
         <div class="image-hover">
         <a href="" class="add"></a>
         </div>
     </div>
-    <div class="content-third-row eighth">
+    <div class="slider-blocks eighth">
         <img src="img/Slider/eighth_block.png" alt="first">
         <div class="image-hover">
         <a href="" class="add"></a>
         </div>
     </div>
-    <div class="content-third-row last">
+    <div class="slider-blocks last">
         <img src="img/Slider/last_block.png" alt="first">
         <div class="image-hover">
         <a href="../Blog-task/sticker-mule.php" class="add"></a>

@@ -493,33 +493,22 @@ footer {
     height: 500px;
     margin: 40px auto;
 }
-.content-first-row {
+.slider-blocks {
     float: left;
+    position: relative;
     width: 307px;
     height: 74px;
     margin-bottom: 6px;
-    position: relative;
 }
 .container-upper img {
     display: block;
 }
-.content-first-row:hover .image-hover{
-    display: block;
-}
-.content-second-row:hover .image-hover{
-    display: block;
-}
-.content-third-row:hover .image-hover{
+.slider-blocks:hover .image-hover{
     display: block;
 }
 .second {
     width: 314px;
     margin: 0px 6px;
-}
-.content-second-row {
-    float: left;
-    margin-bottom: 6px;
-    position: relative;
 }
 .largest {
     width: 627px;
@@ -540,13 +529,9 @@ footer {
     font-size: 30px;
     text-shadow: 0px 1px 2px rgba(0,0,0,0.5);
 }
-.content-third-row {
-    float: left;
-    height: 116px;
-    position: relative;
-}
 .latest-news {
     width: 307px;
+    height: 116px;
     background-image: url(../img/Slider/latest_news_block.png);
     text-align: center;
     color: #871401;
@@ -556,10 +541,12 @@ footer {
 }
 .eighth {
     width: 315px;
+    height: 116px;
     margin: 0 6px;
 }
 .last {
     width: 306px;
+    height: 116px;
 }
 .container-upper:before {
     position: absolute;
