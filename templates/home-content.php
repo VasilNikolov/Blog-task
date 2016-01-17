@@ -248,12 +248,10 @@
 		</div>
 	</article>
 	<section class="page-buttons">
-		<ul>
-			<li class="page-button"><a href="">1</a></li>
-			<li class="page-button"><a href="">2</a></li>
-			<li class="page-button"><a href="">3</a></li>
-			<li class="page-button"><a href="">4</a></li>
-		</ul>
+		<a href="#">1</a>
+		<a href="#">2</a>
+		<a href="#">3</a>
+		<a href="#">4</a>
 	</section>
 </div>
 
